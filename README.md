@@ -1,2 +1,2 @@
 # Python-Projects
-# These are collection of projects I've developed to learn new techniques for analysis. 
+# These are a collection of projects I developed to learn new techniques for analysis. 
